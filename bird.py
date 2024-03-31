@@ -458,4 +458,4 @@ def get_output():
    
 
 if __name__ =='__main__':
-    bird.run(host='0.0.0.0', port=7000, debug=True)
+    bird.run(host='0.0.0.0', port=5000, debug=True)
